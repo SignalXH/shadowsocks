@@ -5,6 +5,8 @@ shadowsocks
 [![Build Status]][Travis CI]
 [![Coverage Status]][Coverage]
 
+This just used to learn coding.
+
 A fast tunnel proxy that helps you bypass firewalls.
 
 Features:
